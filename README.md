@@ -1,4 +1,4 @@
-# vue-events-listing
+# vue events listing
 
 ## Project setup
 ```
