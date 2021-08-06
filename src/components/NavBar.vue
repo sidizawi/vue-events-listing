@@ -2,13 +2,13 @@
   <div id="nav" class="nav">
     <router-link to="/" class="brand">Vue Events Listing</router-link>
     <div>
-      <router-link class="nav-item" :to="{ name: 'event-list' }"
-        >List</router-link
-      >
+      <router-link class="nav-item" :to="{ name: 'event-list' }">
+        List
+      </router-link>
       |
-      <router-link class="nav-item" :to="{ name: 'event-create' }"
-        >Create</router-link
-      >
+      <router-link class="nav-item" :to="{ name: 'event-create' }">
+        Create
+      </router-link>
     </div>
   </div>
 </template>
